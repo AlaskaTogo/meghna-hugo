@@ -1,4 +1,4 @@
-baseURL = "https://Testing_JEC.netifly.com"
+baseURL = "https://JEC.netifly.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
